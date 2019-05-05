@@ -353,24 +353,21 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\assets\shadertoy.min">
+    <None Include="..\..\assets\0.frag">
       <Filter>assets</Filter>
     </None>
-    <None Include="..\assets\animation.json">
+    <None Include="..\..\assets\1.glsl">
       <Filter>assets</Filter>
     </None>
-    <None Include="..\assets\live_params.json">
+    <None Include="..\..\assets\a.glsl">
       <Filter>assets</Filter>
     </None>
-    <None Include="..\assets\session.json">
-      <Filter>assets</Filter>
-    </None>
-    <None Include="..\assets\uniforms.json">
+    <None Include="..\..\assets\post.glsl">
       <Filter>assets</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="..\assets\textures.xml">
+    <Xml Include="..\..\assets\textures.xml">
       <Filter>assets</Filter>
     </Xml>
   </ItemGroup>
